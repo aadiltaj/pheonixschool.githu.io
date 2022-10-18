@@ -1,1 +1,1 @@
-# pheonixschool.githu.io
+# pheonixschool.github.io
